@@ -1,3 +1,3 @@
 # Python-Numbers
 
-This is commit from Jimmy
+This is a commit from Jimmy
